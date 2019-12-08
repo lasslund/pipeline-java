@@ -1,3 +1,5 @@
+https://dev.azure.com/Lundholm/ReMoniTest/_apis/build/status/lasslund.pipeline-java?branchName=master
+
 [![Build Status](https://dev.azure.com/Lundholm/ReMoniTest/_apis/build/status/lasslund.pipeline-java?branchName=master)](https://dev.azure.com/Lundholm/ReMoniTest/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
